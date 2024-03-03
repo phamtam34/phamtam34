@@ -1,0 +1,27 @@
+{
+  "name": "phamtam34",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn tính tổng của 2 số bất kỳ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-setpass": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phamtam34/phamtam34"
+  },
+  "homepage": "twitter.com/phamtam34",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "phamtam34",
+  "license": "MIT"
+}
